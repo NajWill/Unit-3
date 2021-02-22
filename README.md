@@ -26,7 +26,7 @@ Here's a walkthrough of implemented user stories:
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
@@ -46,7 +46,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://ezgif.com/video-to-gif/ezgif-4-33b89e13e536.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
